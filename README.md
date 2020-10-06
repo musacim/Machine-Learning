@@ -1,2 +1,2 @@
 # Machine-Learning
-Some basic implementation of ML in python.
+Implementations of ML algorithms in python.
